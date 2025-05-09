@@ -1,4 +1,4 @@
-## 1.What are some differences between interfaces and types in TypeScript?
+## What are some differences between interfaces and types in TypeScript?
 
 In typescript both can be used for declaring types of different data types, Here are some diffrences:
 
